@@ -1,10 +1,10 @@
 ---
-title:               Not Tom's Blog
+title:               NTB
 tagline:             A place for thoughts
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "username" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "password" %>
 name:                Tom Brown
-twitter:             @nottombrown
+twitter:             nottombrown
 github:              nottombrown
 email:               tom@joingrouper.com
 google_analytics_id: YOUR_GA_ID
