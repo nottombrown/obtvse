@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 3'
+gem 'newrelic_rpm'
 
 # Extention libraries
 gem 'thin', '~> 1'
